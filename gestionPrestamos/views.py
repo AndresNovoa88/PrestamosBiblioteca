@@ -62,3 +62,7 @@ class LibroView(View):
         
         return JsonResponse(mensaje)
     
+#tabla prestamos 
+
+
+    
